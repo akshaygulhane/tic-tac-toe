@@ -1,0 +1,5 @@
+.Board {
+    height: 400px;
+    width: 400px;
+    border: solid 1px black;
+  }
